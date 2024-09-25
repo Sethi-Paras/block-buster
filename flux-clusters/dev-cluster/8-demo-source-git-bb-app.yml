@@ -5,7 +5,7 @@ metadata:
   name: 8-demo-source-git-bb-app
   namespace: flux-system
 spec:
-  interval: 1m1s
+  interval: 1m0s
   ref:
     branch: 8-demo
   url: https://github.com/Sethi-Paras/bb-app-source
